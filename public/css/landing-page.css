@@ -60,6 +60,11 @@ a{
   color: #4589C8;
 }
 
+#navimg{
+  max-height: 40px;
+
+}
+
 
 @media(max-width:767px) {
   .intro-message {
