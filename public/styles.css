@@ -2,3 +2,21 @@
   display: flex;
   justify-content: :center;
 }
+
+h2{
+  font-size: 72px;
+  color: #fff;
+  text-shadow: 0 1px 0 #424242, 0 0 5px #424242;
+  font-family: Roboto-Bold, sans-serif;
+}
+
+.btnrow{
+  display: flex;
+  flex: row;
+}
+
+#test{
+  height: auto;
+
+  border-radius: 50%;
+}
