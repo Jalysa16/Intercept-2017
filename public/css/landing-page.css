@@ -33,6 +33,7 @@ body, h1, h2, h3, h4, h5, h6 {
   margin: 0;
   text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
   font-size: 5em;
+  
 }
 
 .intro-divider {
@@ -140,6 +141,26 @@ body, h1, h2, h3, h4, h5, h6 {
   ul.banner-social-buttons>li:last-child {
     margin-bottom: 0;
   }
+}
+
+.divider-ngo {
+  padding: 100px 0;
+  color: #f8f8f8;
+  background: url(../img/ngo.jpeg) no-repeat center center;
+  background-size: cover;
+}
+
+.divider-volunteer {
+  padding: 100px 0;
+  color: #f8f8f8;
+  background: url(../img/volunteer.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.divider h1 {
+  margin: 0;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+  font-size: 3em;
 }
 
 footer {
