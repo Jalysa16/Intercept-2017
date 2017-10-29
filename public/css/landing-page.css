@@ -213,3 +213,7 @@ p.copyright {
   background-color: #f8f9fa;
   border: 1px solid #f8f8f8;
 }
+
+#bottom-btns{
+  margin-bottom: 5px;
+}
