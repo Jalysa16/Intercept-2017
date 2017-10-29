@@ -23,6 +23,12 @@ h1, h2, h3, h4, h5, h6, label {
   background-color: #4589C8;
 }
 
+.makecircle{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
 .intro-header {
   padding-top: 50px;
   padding-bottom: 50px;
