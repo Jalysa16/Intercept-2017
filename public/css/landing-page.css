@@ -209,9 +209,6 @@ p.copyright {
 }
 
 .form-container{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   margin: 2%;
   background-color: #f8f9fa;
   border: 1px solid #f8f8f8;
