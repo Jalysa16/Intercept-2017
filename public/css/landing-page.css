@@ -15,12 +15,20 @@ h1, h2, h3, h4, h5, h6, label {
   font-weight: 700;
 }
 
+#bignow{
+  font-size: 7em;
+}
+
+#navbar{
+  background-color: #4589C8;
+}
+
 .intro-header {
   padding-top: 50px;
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../img/hand.jpg) no-repeat center center;
+  background: url(../img/headerimg.jpg) no-repeat center center;
   background-size: cover;
 }
 
